@@ -3,7 +3,20 @@
 Web Story Scraper - https://webstoryscraper.com/
 Scrap Single Webstory Pages From URL on Just One Click
 
-https://webstoryscraper.com/web-story-screenshot.png
+![Web Story Scraper](https://webstoryscraper.com/web-story-screenshot.png)
+
+How can you Scrap any webstory with WebStoryScraper?
+First of all go to the story from that you want to get data, then you will need to copy the story URL. After copying the URL just go to our website WebStoryScraper.com , then on home page you will find Input box ,where you need paste that URL.
+
+
+And then click on Get Content. And there you are with your data that you were looking from webstory.
+
+
+How Web Story Scraper tool works?
+WebStoryScraper is a perfect tool for getting data from web stories. We are in need to make this tool as per so many people required to get data from webstories and can make new web stories by that data.
+
+
+This tool fetch text and images from web story page and just display on the Home page. This tool will be most helpful for those bloggers that are looking for increase in their webstory traffic.
 
 What is web story?
 Web Stories are an outwardly rich, full-screen content configuration for the web, which permit you to tap or swipe through stories. To consume content, you can tap or swipe through Web Stories.
